@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">WiChat</string>
+    <string name="click_on_image_to_go_to_wifi_settings">click on image to go to wifi settings</string>
+    <string name="check">check</string>
+    <string name="enter_your_name">enter your name</string>
+    <string name="submit">submit</string>
+    <string name="empty" />
+    <string name="send_message">send message</string>
+    <string name="wi_chat">Wi-Chat</string>
+    <string name="messages">Messages</string>
+    <string name="disconnect">Disconnect</string>
+    <string name="type_a_message">Type a message</string>
+</resources>
